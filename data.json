@@ -1,0 +1,32 @@
+{
+  "data": {
+    "leiJi": 1890.00,
+    "daijJiSuan": 890.00,
+    "orderData1": {
+      "no": 1,
+      "order": 3645345756667,
+      "time": "2021-03-16 11:25",
+      "prod": "隐形挪车卡",
+      "price": 25.00,
+      "biLi": "80%",
+      "bTieE": 20.00,
+      "number": 3,
+      "all": 60.00,
+      "state": "已发货",
+      "status": 1
+    },
+    "orderData2": {
+      "no": 2,
+      "order": 3645345756668,
+      "time": "2021-03-16 11:26",
+      "prod": "隐形挪车卡",
+      "price": 25.00,
+      "biLi": "80%",
+      "bTieE": 20.00,
+      "number": 3,
+      "all": 60.00,
+      "state": "待发货",
+      "status": 0
+    }
+  }
+}
